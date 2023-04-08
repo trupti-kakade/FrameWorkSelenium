@@ -6,6 +6,7 @@ public class SonaliC {
           System.out.println("sonali");
           System.out.println("hello");
           System.out.println("Hiii");
+          System.out.println("check");
 	}
 
 }
